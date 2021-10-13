@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836508464329",
+    "firebase_url": "https://taskflow-9394c.firebaseio.com",
+    "project_id": "taskflow-9394c",
+    "storage_bucket": "taskflow-9394c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836508464329:android:a74a0eff8591f54e220918",
+        "android_client_info": {
+          "package_name": "com.example.taskflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836508464329-t71e9di23mn88u9996gjokm2g0f1j3gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXbLh3SYlNwxwJmLSu2wBNa1FF8dWwss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836508464329-t71e9di23mn88u9996gjokm2g0f1j3gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
